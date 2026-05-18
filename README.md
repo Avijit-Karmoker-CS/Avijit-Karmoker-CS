@@ -14,6 +14,8 @@ Computer Science student at Dalhousie University with hands-on experience in SQL
 - 🔄 [SQL ETL Pipeline & Healthcare Data Warehouse](https://github.com/Avijit-Karmoker-CS/SQL-ETL-Pipeline-and-Healthcare-Data-Warehouse-) — ETL · Star Schema
 - 🔍 [Q&A Search Engine – DPR & RAG Pipeline](https://github.com/Avijit-Karmoker-CS/Q-A-Search-Engine-using-AI-DPR-RAG-Pipeline---Final-Project) — Python · NLP · MRR = 1.0
 - 📈 [Gold Price Forecasting](https://github.com/Avijit-Karmoker-CS/GoldForecast) — Machine Learning · Jupyter
+- 📊 [Business Data Analysis Dashboard](https://github.com/Avijit-Karmoker-CS/Business-Data-Analysis-Dashboard-) — Excel · SQL · Reporting
+
 
 ## 📫 Connect
 - 💼 [LinkedIn](https://linkedin.com/in/avijitkarmoker)
