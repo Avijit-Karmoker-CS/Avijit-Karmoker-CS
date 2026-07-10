@@ -16,9 +16,9 @@ Computer Science student at Dalhousie University with hands-on experience in SQL
 - 📈 [Gold Price Forecasting](https://github.com/Avijit-Karmoker-CS/GoldForecast) — Machine Learning · Jupyter
 - 📊 [Business Data Analysis Dashboard](https://github.com/Avijit-Karmoker-CS/Business-Data-Analysis-Dashboard-) — Excel · SQL · Reporting
 
-- [Student Survey Analysis](https://github.com/Avijit-Karmoker-CS/student-survey-analysis) — Python · Pandas · Data Cleaning & Validation · Data Visualization (Matplotlib) · Survey Design · Descriptive Statistics · Cross-tabulation / Group-by Analysis · Report Writing
+- 📋 [Student Survey Analysis](https://github.com/Avijit-Karmoker-CS/student-survey-analysis) — Python · Pandas · Data Cleaning & Validation · Data Visualization (Matplotlib) · Survey Design · Descriptive Statistics · Cross-tabulation / Group-by Analysis · Report Writing
 
--  [nrollment Trends Dashboard](https://github.com/Avijit-Karmoker-CS/student-survey-analysis) — Power BI · DAX · Power Query (M) · Data Modeling · ashboard Design · ETL / Data Transformation · Trend Analysis
+-  🎓 [Enrollment Trends Dashboard](https://github.com/Avijit-Karmoker-CS/Enrollment-Trends-Dashboard) — Power BI · DAX · Power Query (M) · Data Modeling · ashboard Design · ETL / Data Transformation · Trend Analysis
   
 ## 📫 Connect
 - 💼 [LinkedIn](https://linkedin.com/in/avijitkarmoker)
