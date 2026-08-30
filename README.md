@@ -20,9 +20,9 @@ Computer Science student at Dalhousie University with hands-on experience in AI/
 
 -  🎓 [Enrollment Trends Dashboard](https://github.com/Avijit-Karmoker-CS/Enrollment-Trends-Dashboard) — Power BI · DAX · Power Query (M) · Data Modeling · ashboard Design · ETL / Data Transformation · Trend Analysis
 -  🎓 [Containerized-AI-ML-Application-with-Docker-Linux](https://github.com/Avijit-Karmoker-CS/Containerized-AI-ML-Application-with-Docker-Linux) — Docker · Linux · Python · AI/ML · Containerization · Troubleshooting · DevOps
--  [AI-Powered-Retail-Inventory-Supply-Chain-Optimization-Platform](https://github.com/Avijit-Karmoker-CS/AI-Powered-Retail-Inventory-Supply-Chain-Optimization-Platform) - Python · machine-learning · scikit-learn · operations-research · linear-programming · mlops · mlflow · demand-forecasting · inventory-optimization · FastAPI · Docker · Azure
--  [Enterprise-RAG-LLM-Knowledge-Platform](https://github.com/Avijit-Karmoker-CS/Enterprise-RAG-LLM-Knowledge-Platform) - Python · RAG · vector-database · FAISS · LangChain · LangGraph · Snowflake · Databricks · mlflow · FastAPI · Docker · Azure · hybrid-search
--  [Multi-Agent-Retail-Operations-AI-System](https://github.com/Avijit-Karmoker-CS/Multi-Agent-Retail-Operations-AI-System) - python · langgraph · LangChain · agentic-ai · multi-agent-systems · RAG · FAISS · FastAPI · mlflow · Docker · Azure · LLM
+- 🚛⛓️ [AI-Powered-Retail-Inventory-Supply-Chain-Optimization-Platform](https://github.com/Avijit-Karmoker-CS/AI-Powered-Retail-Inventory-Supply-Chain-Optimization-Platform) - Python · machine-learning · scikit-learn · operations-research · linear-programming · mlops · mlflow · demand-forecasting · inventory-optimization · FastAPI · Docker · Azure
+- 📚⚡ [Enterprise-RAG-LLM-Knowledge-Platform](https://github.com/Avijit-Karmoker-CS/Enterprise-RAG-LLM-Knowledge-Platform) - Python · RAG · vector-database · FAISS · LangChain · LangGraph · Snowflake · Databricks · mlflow · FastAPI · Docker · Azure · hybrid-search
+- 🤖🏪 [Multi-Agent-Retail-Operations-AI-System](https://github.com/Avijit-Karmoker-CS/Multi-Agent-Retail-Operations-AI-System) - python · langgraph · LangChain · agentic-ai · multi-agent-systems · RAG · FAISS · FastAPI · mlflow · Docker · Azure · LLM
 ## 📫 Connect
 - 💼 [LinkedIn](https://linkedin.com/in/avijitkarmoker)
 - 📧 avijit.karmoker@dal.ca
