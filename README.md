@@ -20,9 +20,9 @@ Computer Science student at Dalhousie University with hands-on experience in SQL
 
 -  🎓 [Enrollment Trends Dashboard](https://github.com/Avijit-Karmoker-CS/Enrollment-Trends-Dashboard) — Power BI · DAX · Power Query (M) · Data Modeling · ashboard Design · ETL / Data Transformation · Trend Analysis
 -  🎓 [Containerized-AI-ML-Application-with-Docker-Linux](https://github.com/Avijit-Karmoker-CS/Containerized-AI-ML-Application-with-Docker-Linux) — Docker · Linux · Python · AI/ML · Containerization · Troubleshooting · DevOps
--  [AI-Powered-Retail-Inventory-Supply-Chain-Optimization-Platform](https://github.com/Avijit-Karmoker-CS/AI-Powered-Retail-Inventory-Supply-Chain-Optimization-Platform)
--  [Enterprise-RAG-LLM-Knowledge-Platform](https://github.com/Avijit-Karmoker-CS/Enterprise-RAG-LLM-Knowledge-Platform)
--  [Multi-Agent-Retail-Operations-AI-System](https://github.com/Avijit-Karmoker-CS/Multi-Agent-Retail-Operations-AI-System)
+-  [AI-Powered-Retail-Inventory-Supply-Chain-Optimization-Platform](https://github.com/Avijit-Karmoker-CS/AI-Powered-Retail-Inventory-Supply-Chain-Optimization-Platform) - python · machine-learning · scikit-learn · operations-research · linear-programming · mlops · mlflow · demand-forecasting · inventory-optimization · fastapi · docker · azure
+-  [Enterprise-RAG-LLM-Knowledge-Platform](https://github.com/Avijit-Karmoker-CS/Enterprise-RAG-LLM-Knowledge-Platform) - python · rag · vector-database · faiss · langchain · langgraph · snowflake · databricks · mlflow · fastapi · docker · azure · hybrid-search
+-  [Multi-Agent-Retail-Operations-AI-System](https://github.com/Avijit-Karmoker-CS/Multi-Agent-Retail-Operations-AI-System) - python · langgraph · langchain · agentic-ai · multi-agent-systems · rag · faiss · fastapi · mlflow · docker · azure · llm
 ## 📫 Connect
 - 💼 [LinkedIn](https://linkedin.com/in/avijitkarmoker)
 - 📧 avijit.karmoker@dal.ca
