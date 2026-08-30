@@ -21,5 +21,6 @@ Computer Science student at Dalhousie University with hands-on experience in SQL
 -  🎓 [Enrollment Trends Dashboard](https://github.com/Avijit-Karmoker-CS/Enrollment-Trends-Dashboard) — Power BI · DAX · Power Query (M) · Data Modeling · ashboard Design · ETL / Data Transformation · Trend Analysis
 -  🎓 [Containerized-AI-ML-Application-with-Docker-Linux](https://github.com/Avijit-Karmoker-CS/Containerized-AI-ML-Application-with-Docker-Linux) — Docker · Linux · Python · AI/ML · Containerization · Troubleshooting · DevOps
 ## 📫 Connect
+- [AI-Powered-Retail-Inventory-Supply-Chain-Optimization-Platform](https://github.com/Avijit-Karmoker-CS/AI-Powered-Retail-Inventory-Supply-Chain-Optimization-Platform)
 - 💼 [LinkedIn](https://linkedin.com/in/avijitkarmoker)
 - 📧 avijit.karmoker@dal.ca
